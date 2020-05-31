@@ -1,7 +1,7 @@
 package com.naveen.mavenclisample;
 
 /**
- * Hello world! jenkins build with github
+ * Hello world! jenkins build with github success
  *
  */
 public class App 
